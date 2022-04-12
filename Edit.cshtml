@@ -1,0 +1,52 @@
+﻿@model employeemanagment.Models.Employee
+@{
+    ViewBag.title = "Edit";
+}
+<div class="panel-body">
+    <div class="row">
+        @using (Html.BeginForm("edit", "home", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+        {
+            @Html.AntiForgeryToken()
+            <form>
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                @Html.HiddenFor(model=>model.Id)
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-3" })
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control", @placeholder = "name" } })
+                        @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Position, htmlAttributes: new { @class = "control-label col-md-3" })
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        @Html.EditorFor(model => model.Position, new { htmlAttributes = new { @class = "form-control", @placeholder = "Position" } })
+                        @Html.ValidationMessageFor(model => model.Position, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Salary, htmlAttributes: new { @class = "control-label col-md-3" })
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        @Html.EditorFor(model => model.Salary, new { htmlAttributes = new { @class = "form-control", @placeholder = "salary" } })
+                        @Html.ValidationMessageFor(model => model.Salary, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-8 col-sm-8 pull-right">
+                        <button type="submit" class="btn btn-primary"><i class="glyphicon glyphicon-save"></i>تعديل</button>
+                        <a href="@Url.Content("~/home/Index")" class="btn btn-default"><span class="glyphicon glyphicon-home">إلغاء</span></a>
+                    </div>
+                </div>
+
+            </form>
+        }
+        <div class="col-lg-8">
+            <div id="morries-bar-chart">
+
+            </div>
+        </div>
+    </div>
+
+</div>
+

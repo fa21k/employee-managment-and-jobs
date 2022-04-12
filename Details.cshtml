@@ -1,0 +1,63 @@
+﻿@*<div>employee details information</div>*@
+@model employeemanagment.Models.Employee
+@{
+    ViewBag.title = "Details";
+}
+
+<div class="container">
+    </br>
+    @*<h2>Employee managment system</h2>*@
+    <div class="panel-group">
+       
+
+        <div class="panel panel-primary">
+            <div class="panel-heading">معلومات الموظف</div>
+            <div class="panel-body">
+
+                <div class="row">
+                    <form class="form-horizontal">
+                        @*@Html.ValidationSummary(true, "", new { @class="text-danger"})*@
+                        @*@Html.HiddenFor(model=>model.Id)*@
+
+                   
+               
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-3" })
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control", @placeholder = "name" } })
+                        @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Position, htmlAttributes: new { @class = "control-label col-md-3" })
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        @Html.EditorFor(model => model.Position, new { htmlAttributes = new { @class = "form-control", @placeholder = "Position" } })
+                        @Html.ValidationMessageFor(model => model.Position, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Salary, htmlAttributes: new { @class = "control-label col-md-3" })
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        @Html.EditorFor(model => model.Salary, new { htmlAttributes = new { @class = "form-control", @placeholder = "salary" } })
+                        @Html.ValidationMessageFor(model => model.Salary, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-10 col-sm-8 pull-right">
+                        @*<button type="submit" class="btn btn-primary"><i class="glyphicon glyphicon-save"></i>back</button>*@
+                        <a href="@Url.Content("~/home/Index")" class="btn btn-primary"><span class="glyphicon glyphicon-home">رجوع</span></a>
+                    </div>
+                </div>
+
+                        </form>
+                
+                </div>
+            
+            </div>
+       
+        </div>
+        </div>
+</div>
+
