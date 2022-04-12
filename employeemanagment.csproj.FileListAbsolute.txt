@@ -1,0 +1,132 @@
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\ApplicationInsights.config
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\roslyn\csc.exe
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\roslyn\vbc.exe
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\roslyn\VBCSCompiler.exe
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\employeemanagment.dll.config
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\employeemanagment.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\employeemanagment.pdb
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\Antlr3.Runtime.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\EntityFramework.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\EntityFramework.SqlServer.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\Microsoft.AI.Web.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\Newtonsoft.Json.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\System.Web.Helpers.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\System.Web.Mvc.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\System.Web.Optimization.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\System.Web.Razor.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\System.Web.WebPages.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\System.Web.WebPages.Razor.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\WebGrease.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\EntityFramework.xml
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\EntityFramework.SqlServer.xml
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\Microsoft.AI.Web.xml
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\Microsoft.ApplicationInsights.xml
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\System.Web.Helpers.xml
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\System.Web.Mvc.xml
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\System.Web.Optimization.xml
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\System.Web.Razor.xml
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\System.Web.WebPages.xml
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\System.Web.WebPages.Razor.xml
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\Antlr3.Runtime.pdb
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\Newtonsoft.Json.xml
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\obj\Debug\employeemanagment.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\obj\Debug\employeemanagment.pdb
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\obj\Debug\employeemanagment.Migrations.create.resources
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\obj\Debug\employeemanagment.csproj.GenerateResource.Cache
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\PagedList.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\PagedList.Mvc.dll
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\PagedList.xml
+C:\Users\fadya\documents\visual studio 2015\Projects\employeemanagment\employeemanagment\bin\PagedList.Mvc.xml
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\ApplicationInsights.config
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\roslyn\csc.exe
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\roslyn\System.Collections.Immutable.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\roslyn\System.Reflection.Metadata.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\roslyn\vbc.exe
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\roslyn\VBCSCompiler.exe
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\roslyn\VBCSCompiler.exe.config
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\employeemanagment.dll.config
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\employeemanagment.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\employeemanagment.pdb
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\Antlr3.Runtime.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\EntityFramework.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\EntityFramework.SqlServer.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\Microsoft.AI.Agent.Intercept.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\Microsoft.AI.DependencyCollector.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\Microsoft.AI.Web.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\Microsoft.AI.WindowsServer.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\Microsoft.ApplicationInsights.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\Microsoft.Web.Infrastructure.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\Newtonsoft.Json.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\PagedList.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\PagedList.Mvc.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\System.Web.Helpers.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\System.Web.Mvc.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\System.Web.Optimization.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\System.Web.Razor.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\System.Web.WebPages.Deployment.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\System.Web.WebPages.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\System.Web.WebPages.Razor.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\WebGrease.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\EntityFramework.xml
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\EntityFramework.SqlServer.xml
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\Microsoft.AI.DependencyCollector.xml
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\Microsoft.AI.Web.xml
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\Microsoft.AI.WindowsServer.xml
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\Microsoft.ApplicationInsights.xml
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\PagedList.xml
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\PagedList.Mvc.xml
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\System.Web.Helpers.xml
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\System.Web.Mvc.xml
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\System.Web.Optimization.xml
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\System.Web.Razor.xml
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\System.Web.WebPages.xml
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\System.Web.WebPages.Deployment.xml
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\System.Web.WebPages.Razor.xml
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\Antlr3.Runtime.pdb
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\Newtonsoft.Json.xml
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\obj\Debug\employeemanagment.Migrations.create.resources
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\obj\Debug\employeemanagment.csproj.GenerateResource.Cache
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\obj\Debug\employeemanagment.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\obj\Debug\employeemanagment.pdb
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\ClosedXML.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\DocumentFormat.OpenXml.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\ExcelNumberFormat.dll
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\ClosedXML.pdb
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\ClosedXML.xml
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\DocumentFormat.OpenXml.xml
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\bin\ExcelNumberFormat.xml
+H:\اخر ملفات من سطح مكتب\اخر ملفات سطح مكتب محدثه\مشاريع دوت نت\employeemanagment\employeemanagment\obj\Debug\employeemanagment.csprojResolveAssemblyReference.cache
